@@ -1,6 +1,7 @@
 -mostrar estadisticas de los equipos.
--los jugadores tenga una de usuarios.
+-los jugadores tenga una cuenta de usuarios.
 - subir fotos de usuario.
 -el arbitro pueda ver la estadistica de los jugadores.
 -rankings enventos de los equipos.
 -rankings enventos de los jugadores.
+- Inactivar equipo.
